@@ -1,0 +1,15 @@
+# Ignore the following
+.idea/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+bin/
+obj/
+
+*.log
+*.cache
+
+packages/
